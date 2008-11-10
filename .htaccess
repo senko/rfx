@@ -1,0 +1,4 @@
+RewriteEngine on
+RewriteBase /projects/rfx/
+RewriteRule ^static/(.*)$ static/$1 [L]
+RewriteRule ^([a-zA-Z0-9_/]*)$ index.php?_rfx_path=/$1&%{QUERY_STRING}
