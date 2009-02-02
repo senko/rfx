@@ -112,7 +112,7 @@ function uri_is_post_request()
 function uri_post_params($fields) {
     $ret = array();
     foreach ($fields as $f)
-        if (isset($_POST[$f])) $ret[] = $_POST[$f];
+        if (isset($_POST[$f])) $ret[$f] = $_POST[$f];
     return $ret;
 }
 
