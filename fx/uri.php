@@ -113,7 +113,7 @@ function uri_post_params($fields) {
     $ret = array();
     foreach ($fields as $f)
         if (isset($_POST[$f])) $ret[] = $_POST[$f];
-    return $f;
+    return $ret;
 }
 
 /* Handles file upload for $field, and copies it to $dest. If $dest is a
