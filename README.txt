@@ -105,6 +105,6 @@ Main public repository for this is on github: http://github.com/senko/rfx
 
 Bugfixes, feature additions (as long as they're in the spirit of RFX 
 philosophy) and other comments are welcome! You can contact me either through 
-github, mail me at senko@senko.net or message @senkorasic on Twitter.
+github or message @senkorasic on Twitter.
 
 
