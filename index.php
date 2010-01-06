@@ -1,7 +1,7 @@
 <?
 /* RFX - A lightweight PHP web framework.
  * Copyright (C) 2007-2008. REI
- * All rights reserved.
+ * Licensed under MIT license. See the LICENSE.txt file for  details.
  *
  * Author: Senko Rasic <senko.rasic@rei.hr>
  */

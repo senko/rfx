@@ -31,7 +31,7 @@
 
 <!-- FOOTER -->
 <div style="text-align: center; font-size: 0.9em; padding-top: 0.5em; border-top: 1px solid #aaa; margin-top: 1em;">
-    Copyright &copy; 2007-2008 REI
+    Copyright &copy; unknown author
 </div>
 <!-- /FOOTER -->
 </body>
